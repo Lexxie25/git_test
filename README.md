@@ -1,0 +1,1 @@
+This is Lexxie25 first Git project!
